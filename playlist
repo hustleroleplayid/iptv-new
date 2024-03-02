@@ -3247,9 +3247,32 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://srtv.my.id/vd/play.m3u8?id=205&type=hls
 
+==========================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="MOTOGP",MOTOGP 1
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD11_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="MOTOGP",MOTOGP 2
+https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="MOTOGP",MOTOGP 3
+https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="MOTOGP",MOTOGP 4
+http://103.166.27.2:8112/play/a01c/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="MOTOGP",MOTOGP 5
+http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt2sport50)/manifest_hd.mpd
+
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/x1GHHqLz/VNL.jpg" group-title="⚾️VOLY⚾️",voly korea
 https://bintangstreaming.my.id/sbssport/S02.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsThmG2gYuXH6S-g0jC2sdQ7nDY6ciUhEH5w&usqp=CAU" group-title="CHAMPION",AFC CHAMPIONS LEAGUE 1
+https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsThmG2gYuXH6S-g0jC2sdQ7nDY6ciUhEH5w&usqp=CAU" group-title="CHAMPION",AFC CHAMPIONS LEAGUE 2
+https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsThmG2gYuXH6S-g0jC2sdQ7nDY6ciUhEH5w&usqp=CAU" group-title="CHAMPION",AFC CHAMPIONS LEAGUE 3
+https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsThmG2gYuXH6S-g0jC2sdQ7nDY6ciUhEH5w&usqp=CAU" group-title="CHAMPION",AFC CHAMPIONS LEAGUE 4
+https://ssc5-ak.akamaized.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
 
 
 ===========================================================================================================
@@ -5259,133 +5282,24 @@ https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="INDIA" tvg-id="flix.in" tvg-name="flix.in", & flix
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
-
-#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.VreLFgtrurjAz8rprdI1lQHaDa&pid=Api&P=0&w=382&h=177" group-title="INDIA" tvg-id="StarzInBlackEast.us" tvg-name="StarzInBlackEast.us", Starz In Black East
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/29471.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="INDIA" tvg-id="AndpriveHD.in" tvg-name="AndpriveHD.in", &privÃ© HD
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymoviesactionadventure.png" group-title="INDIA" tvg-id="SkyCinemaAction.uk" tvg-name="SkyCinemaAction.uk", Sky Cinema Action
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://413994677292339256.of2100.xyz:80//live/hu519885/mVgBWTuhcWX7/731950.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUwe3JaBjPWDBNecYCMeLYldH-0JVoP8Kc2A&usqp=CAU" group-title="INDIA" tvg-id="skyscifihorror.uk" tvg-name="skyscifihorror.uk", Sky Cinema Sci-fi Horror
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://line.lemotv.cc:25461//live/Ivica5274/juric4005/228281.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/united-kingdom/flag-3d-250.png" group-title="INDIA" tvg-id="0" tvg-name="0", Sky Cinema Comedy
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://413994677292339256.of2100.xyz:80//live/hu519885/mVgBWTuhcWX7/699825.ts
-
-#EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymovieshdfamily.png" group-title="INDIA" tvg-id="SkyCinemaFamily.uk" tvg-name="SkyCinemaFamily.uk", Sky Cinema Family
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://413994677292339256.of2100.xyz:80//live/hu519885/mVgBWTuhcWX7/756121.ts
-
-#EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymovieshdselect.png" group-title="INDIA" tvg-id="skyselect.uk" tvg-name="skyselect.uk", Sky Cinema Select
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://x.v-iptv.com:25443//live/V5Ooa2peOHzg/LOKcR5kyXD/30978.ts
-
-#EXTINF:-1 tvg-logo="http://muttsnutts.shacknet.biz:8080/images/20fb75b908f2ea40ee7f4ccee8aae92f.png" group-title="INDIA" tvg-id="skythriller.uk" tvg-name="skythriller.uk", Sky Cinema Thriller
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://line.lemotv.cc:25461//live/Ivica5274/juric4005/228284.ts
-
-#EXTINF:-1 tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skymoviesgreats.png" group-title="INDIA" tvg-id="SkyCinemaGreats.uk" tvg-name="SkyCinemaGreats.uk", Sky Cinema Greats
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://413994677292339256.of2100.xyz:80//live/hu519885/mVgBWTuhcWX7/749050.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPhKfHaUnhpFJYbjpIt1g7pfgKo6l_M8ldSQ&usqp=CAU" group-title="INDIA" tvg-id="" tvg-name="", Starz Encore Action
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/29464.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore.png" group-title="INDIA" tvg-id="starzencore.us" tvg-name="starzencore.us", Starz Encore Black
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/29463.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTad5yP-U2GCSDztOnBiST5nyCqhnys1qYKBA&usqp=CAU" group-title="INDIA" tvg-id="HDMoviesNow.in" tvg-name="HDMoviesNow.in", Movies Now HD
-http://startv365.com:80//live/D85A79B4/55A7743D/376271.ts
-
-#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/442.png" group-title="INDIA" tvg-id="MovieMax.us" tvg-name="MovieMax.us", MovieMax
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/64349.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cYggSQj/showtime-showcase.png" group-title="INDIA" tvg-id="ShowtimeShowcaseEast.us" tvg-name="ShowtimeShowcaseEast.us", Showtime Showcase East
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/29468.ts
-
-#EXTINF:-1 tvg-logo="https://epg4you.com/logos/skymoviesdrama_uk.png" group-title="INDIA" tvg-id="SkyCinemaDrama.uk" tvg-name="SkyCinemaDrama.uk", Sky Cinema Drama
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://line.lemotv.cc:25461//live/Ivica5274/juric4005/228295.ts
-
-#EXTINF:-1 tvg-logo="https://epg4you.com/logos/skycinemahits_uk.png" group-title="INDIA" tvg-id="SkyCinemaHits.uk" tvg-name="SkyCinemaHits.uk", Sky Cinema Hits
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/28927.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZGkVxSL/starz-cinema.png" group-title="INDIA" tvg-id="StarzCinemaEast.us" tvg-name="StarzCinemaEast.us", Starz Cinema East
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/29498.ts
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3QmksFVr12I/YMdCR4uYanI/AAAAAAAABLk/vZyg0CKOV70yLfp5z33pZW5VHft7Wd60ACLcBGAsYHQ/s320/images%252848%2529.jpeg" group-title="INDIA" tvg-id="" tvg-name="", Zee TV
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://103.120.172.74:1140
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/14411e7bb508c400f65dd42f6ec71e23.png" group-title="INDIA" tvg-id="" tvg-name="", Sony Wah
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+#EXTINF:0 tvg-id="ext" group-title="INDIA",COLORS HD ðŸ‡®ðŸ‡³
+https://mymhdtvworld.com/vt/stream.m3u8?id=Colors_HD
+#EXTINF:0 tvg-id="ext" group-title="INDIA",COLORS INFINITY HD ðŸ‡®ðŸ‡³
+https://mymhdtvworld.com/vt/stream.m3u8?id=Colors_Infinity_HD
+#EXTINF:0 tvg-id="ext" group-title="INDIA",Sony AATH ðŸ‡®ðŸ‡³
+https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INDIA",Sony ENTERTAINMENT TELEVISION ðŸ‡®ðŸ‡³
+https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INDIA",Sony KAL ðŸ‡®ðŸ‡³
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="SonyPal.in" group-title="INDIA",Sony PAL ðŸ‡®ðŸ‡³
+https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INDIA",Sony SAB ðŸ‡®ðŸ‡³
+https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INDIA",Sony WAH ðŸ‡®ðŸ‡³
 https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716070131156wkh.png" group-title="INDIA" tvg-id="" tvg-name="", Jaya Max
-http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/66716.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3r50rcH/Tata-Sky.png" group-title="INDIA" tvg-id="" tvg-name="", Bollywood HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="INDIA" tvg-id="AstroVaanavil" tvg-name="AstroVaanavil", Astro Vaanavil HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tUFjJhFKE+kGYqT7rzxTKw", "kid":"ckmcatRMw32VqQdUIJEREA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2309/default.mpd
-
-#EXTINF:-1 tvg-logo="http://stariptv.org:80/logo/countryies/india.jpg" group-title="INDIA" tvg-id="" tvg-name="", Sony Mix
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/55263.ts
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/272f1039b592ab8ee695cda162daafe0.png" group-title="INDIA" tvg-id="" tvg-name="", Sony Pal
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://is.gd/94Rvmq
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="INDIA" tvg-id="" tvg-name="", And Picture HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeAction.in.png" group-title="INDIA" tvg-id="ZeeAction.in" tvg-name="ZeeAction.in", Zee Action
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="INDIA" tvg-id="ZeeBollywood.in" tvg-name="ZeeBollywood.in", Zee Bollywood
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/55212.ts
-
-#EXTINF:-1 tvg-id="Zee Cafe HD" tvg-name="" tvg-logo="https://i.ibb.co/gdHycbL/zeecafe.png" group-title="INDIA", ZEE CAFE HD ðŸ‡®ðŸ‡³
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mhdtv.co.in/
-https://mhdtv.co.in/jio/stream.php?id=1319&e=.m3u8
-
-#EXTINF:-1 tvg-id="THE MOVIE CLUB" tvg-name="" tvg-logo="https://mhdtvmax.com/wp-content/uploads/2024/01/themoviesclub.webp" group-title="INDIA",THE MOVIE CLUB Ã°Å¸â€¡Â®Ã°Å¸â€¡Â³
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mhdtv.co.in/
-https://cc-jytb1qhmgqh5a.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/d9a88fa4-432d-4721-97ed-6f3f608c6450/0.m3u8
-
-#EXTINF:-1 tvg-id="BOLLYWOOD HUNGAMA" tvg-name="" tvg-logo="https://mhdtvmax.com/wp-content/uploads/2023/09/bollyhungama.webp" group-title="INDIA",BOLLYWOOD HUNGAMA Ã°Å¸â€¡Â®Ã°Å¸â€¡Â³
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mhdtv.co.in/
-https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/78cb70b2-3ab5-42fa-8f22-c093208172b1/1.m3u8
-
-
-
+#EXTINF:0 tvg-id="ZeeCinema.uk" group-title="INDIA",ZEE CINEMA ðŸ‡®ðŸ‡³
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
 =====================================================
 
 =========================INDIA 2======================
