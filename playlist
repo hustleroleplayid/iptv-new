@@ -3249,15 +3249,15 @@ https://srtv.my.id/vd/play.m3u8?id=205&type=hls
 
 ==========================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="MOTO GP",MOTOGP 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="MOTOGP",MOTOGP 1
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD11_DIG_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="MOTO GP",MOTOGP 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="MOTOGP",MOTOGP 2
 https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="MOTO GP",MOTOGP 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="MOTOGP",MOTOGP 3
 https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="MOTO GP",MOTOGP 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="MOTOGP",MOTOGP 4
 http://103.166.27.2:8112/play/a01c/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="MOTO GP",MOTOGP 5
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="MOTOGP",MOTOGP 5
 http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt2sport50)/manifest_hd.mpd
 
 
