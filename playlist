@@ -347,9 +347,7 @@ http://wms.klikhost.com/tegarjogja/tegarjogja/playlist.m3u8
 #EXTINF:-1 tvg-id="TegarTVLampung" tvg-logo="https://i.imgur.com/0Vp3f2J.png" group-title="NATIONAL",Tegar TV Lampung
 http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8j1x7atrjh96cefo17qn6/Jowo-dens.jpeg?rlkey=30aasmhxr7yczfaekhyegreq4&dl=0" group-title="DENS Tv", JOWO
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8j1x7atrjh96cefo17qn6/Jowo-dens.jpeg?rlkey=30aasmhxr7yczfaekhyegreq4&dl=0" group-title="NATIONAL", JOWO
 http://op-group1-swiftservehd-1.dens.tv/h/h231/index.m3u8?app_type=web&userid=lite&chname=Jowo
 
 
@@ -3249,16 +3247,6 @@ http://103.166.27.2:8112/play/a01c/index.m3u8
 http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt2sport50)/manifest_hd.mpd
 
 ==========================================================================================================================
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsThmG2gYuXH6S-g0jC2sdQ7nDY6ciUhEH5w&usqp=CAU" group-title="[LIVE]",AFC CHAMPIONS LEAGUE 1
-https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsThmG2gYuXH6S-g0jC2sdQ7nDY6ciUhEH5w&usqp=CAU" group-title="[LIVE]",AFC CHAMPIONS LEAGUE 2
-https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsThmG2gYuXH6S-g0jC2sdQ7nDY6ciUhEH5w&usqp=CAU" group-title="[LIVE]",AFC CHAMPIONS LEAGUE 3
-https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsThmG2gYuXH6S-g0jC2sdQ7nDY6ciUhEH5w&usqp=CAU" group-title="[LIVE]",AFC CHAMPIONS LEAGUE 4
-https://ssc5-ak.akamaized.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
-==========================================================================================================================
-
 
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/x1GHHqLz/VNL.jpg" group-title="⚾️VOLY⚾️",voly korea
