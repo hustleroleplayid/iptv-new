@@ -1,7 +1,3 @@
-#EXTM3U x-tvg-url="https://stavol.masuk.web.id/epg/channel.txt" 
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://weareblahs.github.io/epg/astro.xml, https://epg.kampung.xyz/IPTV.xml,"  refresh="3600"
-
-
 #EXTM3U
 
 
@@ -351,10 +347,10 @@ http://wms.klikhost.com/tegarjogja/tegarjogja/playlist.m3u8
 #EXTINF:-1 tvg-id="TegarTVLampung" tvg-logo="https://i.imgur.com/0Vp3f2J.png" group-title="NATIONAL",Tegar TV Lampung
 http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8j1x7atrjh96cefo17qn6/Jowo-dens.jpeg?rlkey=30aasmhxr7yczfaekhyegreq4&dl=0" group-title="NATIONAL", JOWO
+#EXTINF:-1 tvg-logo="https://channeljowo.com/wp-content/uploads/2023/11/cropped-cropped-Logo-Channel-Jowo.png" group-title="NATIONAL", JOWO
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#http://op-group1-swiftservehd-1.dens.tv/h/h231/index.m3u8?app_type=web&userid=lite&chname=Jowo
+http://op-group1-swiftservehd-1.dens.tv/h/h231/index.m3u8?app_type=web&userid=lite&chname=Jowo
 
 ===========================KIDS==============================
 
@@ -7965,4 +7961,3 @@ https://ams1.reliastream.com/proxy/bollynbeyond2?mp=/stream
 https://stream-145.zeno.fm/a2gyqzwpwfeuv?zs=GdbNYyTZRdmkNTo2Lbaaag
 #EXTINF:-1 group-title="RADIO INDIA",Radio Hungama 90s Once Again
 https://stream-161.zeno.fm/rm4i9pdex3cuv?zs=1BVXHzShQN-Cb4uDRHIdWA
-
