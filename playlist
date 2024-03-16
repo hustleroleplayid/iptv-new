@@ -309,7 +309,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h200/S4/mnf.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://testfunctionlive.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wkto3In.png" group-title="NATIONAL",Jawa Pos TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/150px-Logo_Jawapos_TV.png" group-title="NATIONAL",Jawa Pos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5E-nAhqyUlmRlAHGkvRPqmNJvfk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7946/tv-tempo-ed7796.jpg" group-title="NATIONAL",TV Tempo (S*)
