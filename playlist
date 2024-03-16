@@ -622,7 +622,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4065
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6858262bb8001827b64d0742be1/e00b58b6aaa1455c82d8980c3f90c98c.jpg" group-title="Anak",Cartoon TV Premium
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6858262bb8001827b64d0742be1/e00b58b6aaa1455c82d8980c3f90c98c.jpg" group-title="KIDS",Cartoon TV Premium
 https://cdnjkt4.transvision.co.id:1004/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
