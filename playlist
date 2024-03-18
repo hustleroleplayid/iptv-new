@@ -163,10 +163,6 @@ http://103.226.232.196:8000/play/a022/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://rr3.dens.tv/s/s41/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="NATIONAL",MOJI (X)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -323,24 +319,10 @@ https://testfunctionlive.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/150px-Logo_Jawapos_TV.png" group-title="NATIONAL",Jawa Pos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5E-nAhqyUlmRlAHGkvRPqmNJvfk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7946/tv-tempo-ed7796.jpg" group-title="NATIONAL",TV Tempo (S*)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=7946&type=hls
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ag3DlGE4zs35O8ozWQWV1XTunvA=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/10975/tes-elshinta-tv-eb36eb.jpg" group-title="NATIONAL",Elshinta TV (S*)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=10975&type=hls
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ag3DlGE4zs35O8ozWQWV1XTunvA=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/10975/tes-elshinta-tv-eb36eb.jpg" group-title="NATIONAL",Elshinta TV (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/w5PSrDEmyCIIRTCSR8c7vTXxygw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8241/rans-channel-2a6db6.jpg" group-title="NATIONAL",Rans TV (S*)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=8241&type=hls
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ulsQWVw0_57XBtqbVw3K959Y1Ik=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg" group-title="NATIONAL",Musika (S*)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=7619&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -394,6 +376,8 @@ http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h231/index.m3u8?app_type=web&userid=lite&chname=Jowo
+
+
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -8229,6 +8213,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://cdn2.pishow.tv/live/141/master.m3u8 
 #EXTINF:0 group-title="INDIA",B4U MOVIES
 http://cdn2.pishow.tv/live/156/master.m3u8
+#EXTINF:0 group-title="INDIA",B4U MOVIES
+https://mhdtv.co.in/jio/stream.m3u8?chunks=5862bc502ad2a4c5546cb7c6e14be3f58bfb396cff0c8bf7e958004ab23b0a0571733e3577c60a8031d3c52dc29b979861342476abf102c946c373103d1e4571b3d558e72558a25d5cbac9e719ed4f6afca613b30c24be5ddd557ffc6c45510811bc8c7c039d51c89b3d9fad5533ec711d228e797b07bdda44089736ffec02d57b04c92940bed9f0242d44712c3b0150f7da517a82ed20516a96affdd839aecc2ac8a484e5713350f47be136ccddddfe5dc72a65464d3bdb00495b23aed7705c8cf274161be17b653fbb8f0565e55160697f0cf9c57ea38a0f6cb3f39b358578c4d94fc80d2fca2c9b33dbcd54bfa17f
 #EXTINF:0 group-title="INDIA",B4U PLUS
 http://108.181.123.127:8070/bubullea83/fWSgcNAqNOjTif3t/1367
 #EXTINF:0 group-title="INDIA",B4U BHOJPURI
@@ -8277,6 +8263,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8 
 #EXTINF:0 group-title="INDIA",BOLLYWOOD HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:0 group-title="INDIA",BOLLYWOOD PRIME
+https://dai.google.com/linear/hls/pb/event/yvQpXDAeRMGU25KTu--V6Q/stream/ea0a933a-ef30-431e-9c52-097277199d49:TPE2/variant/ccdf2687bee8d157a997eb576254e6f2/bandwidth/699600.m3u8
 #EXTINF:0 group-title="INDIA",BFLIX MOVIES
 http://idvd.multitvsolution.com/idvo/bflixmovies_540p.m3u8
 #EXTINF:0 group-title="INDIA",Sony HD
@@ -8344,25 +8332,48 @@ http://kmkus.wanicelife.com:8880/48msk050004/62869843/29041
 http://108.181.132.217:8070/bubullea83/fWSgcNAqNOjTif3t/82238
 #EXTINF:0 group-title="INDIA",JOO MUSIC
 http://37.49.225.197:8070/bubullea83/fWSgcNAqNOjTif3t/168909
+#EXTINF:0 group-title="INDIA",JOO MUSIC
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="",Zee India
 http://103.120.172.74:1040
 #EXTINF:0 group-title="INDIA",ZEE BOLLYWOOD
 http://108.181.56.69:8070/bubullea83/fWSgcNAqNOjTif3t/1351
+#EXTINF:0 group-title="INDIA",ZEE BOLLYWOOD
+https://otttv.co.in/dishtv/playlist.m3u8?chunks=79251d477e5327899e259f5135cc31fb6d0e404be386bb85243d3ceb4988cfde972a9a887cbda470c6b90a7088be8c14df1b073acead278eade0984390e290b482e3844aad5979b3f840519381c54c7ef4d92f21741cfec28bf31a82d3153b57ab6c3cd2918197e2c8289340b171c1f4784db2ccfb88ced5db2dffcc819ba709&vtoken=
+#EXTINF:0 group-title="INDIA",ZEE BOLLYWOOD
+https://mhdtv.co.in/jio/stream.ts?segment=5862bc502ad2a4c5546cb7c6e14be3f58bfb396cff0c8bf7e958004ab23b0a055e8c49b91744ee18ec9362e086560f9714ac2503401dd23e717cae7ece30e4a677919e1ba8c8900ee989dd4c1050caeb589a72fb1827db51d8c0b39f44a76e28fdbac63784051aa1514a9700a695f51f3b3d3084bde493e1c3d154d726766ae4794766fff119ae3ea13c4cf100868e7994e81d592b0ea5018149ed67cf03f54480408cbd8024ac11242b0b48d690315c149f9db238e38b41ad3d8d756700936ed81e861c5ccfad8536b2b48311a61ca76a58dc4970ad0602a5385a430976238e5b370e6a77da08dd8bf5aa1c1b0986b1f8abc506c5fb3147ffc6c813c843b468
 #EXTINF:0 group-title="INDIA",ZEE ACTION
 http://108.181.56.241:8070/bubullea83/fWSgcNAqNOjTif3t/1353
+#EXTINF:0 group-title="INDIA",ZEE ACTION
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1-audio_208482_und=208000-video=1087600-427697829.ts
+#EXTINF:0 group-title="INDIA",ZEE ACTION
+https://mhdtv.co.in/jio/stream.m3u8?chunks=5862bc502ad2a4c5546cb7c6e14be3f58bfb396cff0c8bf7e958004ab23b0a05fae94fa5a9c6d27c31003e3d5df991b01c85ae8ff9b65ef92d06147f071e18015c3447f08dcc0cd66bf9b46e3eeee2bb86b5cb54e2788bd81f288c5dcbf218a4d0c39ffcc51f762dfde2128871077dc888547c3207a74e70cc473706a5bb9135c1679c64db8882481fd185b9b0e34f6a01529c1293fdc2d866a855092485288e9b8815e441f52b71cd8942149e144cbcb26edd92590fabee7d9c929fafbd3df41d0ab365de1444ab52546d62aecded458f7e711e6d46e7e821a76f1a9f08a4acdc42c9dc27e099360cb9e9ffb0e30a6b
 #EXTINF:0 group-title="INDIA",Zee TV
 http://103.120.172.74:1140
 #EXTINF:0 group-title="INDIA",ZEE WORLD
 http://108.181.123.13:8070/bubullea83/fWSgcNAqNOjTif3t/172264
 #EXTINF:0 group-title="INDIA",ZING
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/zing-audio_208482_und=208000-video=1087600.m3u8
+https://mhdtv.co.in/jio/stream.m3u8?chunks=5862bc502ad2a4c5546cb7c6e14be3f58bfb396cff0c8bf7e958004ab23b0a05e3e4bc6490028fba9b4edbf1d54fdabbacbf72b0d4815b61d11ae21492ca929fca97c3034c3541f1112990101328e499b5ddfa9dd87de8e1720ea1c01a37b7b1636087e1141a5453f5d0d636a125a54f871b4e3034f51672e3dcb45a1d758e5b9d4f7bf4f39c59524270eedb20a00159d412ed7ec7c1b963d5827fd95bbfc8837e61f5fa583035fe26ba431776414841a85ed8aea97de55318b0f90c367c11e28b841194c6570d4e077a15e80d31c9beaa3ef14fcfa5e986b5ca6f7bc38dd09a
 #EXTINF:0 group-title="INDIA",ZEE CINEMA ASIA
 http://108.181.123.13:8070/bubullea83/fWSgcNAqNOjTif3t/1350
+#EXTINF:0 group-title="INDIA",ZEE CINEMA
+https://mhdtv.co.in/jio/stream.m3u8?chunks=5862bc502ad2a4c5546cb7c6e14be3f58bfb396cff0c8bf7e958004ab23b0a05fe47802b620c9ee14f42866909a34825fac1f49bf139c52e98cf9ac08ef0b6395c7d823ce09d5fa40264bc63e684274b6f4352f4c7d65f55d0882055938144baa9fbd75c01f41cd4c8a648fb4e89e282d1f55d1b02c64fa4e9bfade17f2234bf97876b18e753bf04078a30c020cc638aa4f851a4b0cc7f825cdf6f5eda22641c8e53b2bca5736fb6ec40c9c99359b82bf825fe4525abc4e7d35bbc91c76e6362507938c57b610fd4d062d6012bba1080c6b29a9097444257afc1fe9edd30385f8bf3e79b6b3b1c9dea7d70567e0d2429
+#EXTINF:0 group-title="INDIA",ZEE CINEMA
+https://otttv.co.in/dishtv/playlist.m3u8?chunks=79251d477e5327899e259f5135cc31fb6d0e404be386bb85243d3ceb4988cfde972a9a887cbda470c6b90a7088be8c14f50fc4ac9a8ce95682352dec826ed2b84733e63febf5edee8d208fd52af1afab8c4ee606577c615ef16e1c54420e727d2c5e1321c15d5153b752afeccd086a2cd34861fcbc68e286a9bd215abf251e72&vtoken=
+#EXTINF:0 group-title="INDIA",ZEE CINEMA HD
+https://otttv.co.in/dishtv/playlist.m3u8?chunks=79251d477e5327899e259f5135cc31fb6d0e404be386bb85243d3ceb4988cfde972a9a887cbda470c6b90a7088be8c14814d0368d776fac7a2540e41d74a70723d95ff03bd207392444542b3c8185c897c96af869d6d172e822a585d5800d5fd6bccaeb62c08e8405e9458a35b6a5f758169438ce8237fdb408187e550d19958&vtoken=
+#EXTINF:0 group-title="INDIA",ZEE CINEMA HD
+https://mhdtv.co.in/jio/stream.m3u8?chunks=5862bc502ad2a4c5546cb7c6e14be3f58bfb396cff0c8bf7e958004ab23b0a05fe47802b620c9ee14f42866909a348259bbcfbd571ce98aa2957dfde89f9f206d206d5e1ad2af644a527efa97ea3b9e4d12a406bacf34f4af8d94408a062d168d358323d729a24a13f7377add461ba0c655a9607efa54ed5485e75e383ee7be98962c1867d181ff1ddd640382e449e412fd29dc2e446c2c0ce31ae4c1074245324099361d983c73bd4ffd133d15414b384e3c9f112d3771597cac3facdf87ca7e776b19bf29a40a253be4fcfd6e9cce197ea2004e892821b1cde2e3caabf8fdc732ff58681d4498c34c6d4223395d203
 #EXTINF:0 group-title="INDIA",ZEE CLASSIC
 http://108.181.132.217:8070/bubullea83/fWSgcNAqNOjTif3t/21578
-
-
-
+#EXTINF:0 group-title="INDIA",BBO CLASSIC
+https://livegeoroueu.akamaized.net/120723/smil:bboclassic1.smil/chunklist_b896000.m3u8?hdntl=exp=1710878036~acl=!*/120723/smil:bboclassic1.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=hdntl~hmac=497408c946f1a6ced1364e206e0f8229855d099e89f414a8b6fb65dc0f53ffb5&hdnts=st=1710791622~exp=1710795222~acl=!*/120723/smil:bboclassic1.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~hmac=bf654afe84bd4c82b09da91d7ec890e4b1cdccd1f7d9e48a881ceacb8b7e30bc&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=MOV&ads.channel=4220&ads.channel_name=BBOClassic&ads.network_name=yupptv&ads.user=1
+#EXTINF:0 group-title="INDIA",BBO CLASSIC
+https://livegeoroueu.akamaized.net/120723/smil:bboclassic1.smil/chunklist_b896000.m3u8?hdntl=exp=1710878387~acl=!*/120723/smil:bboclassic1.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=hdntl~hmac=288e8f642c16f7b3e854a685c1ff39431c385a10d4360943daabbbe0bd7bae69
+#EXTINF:0 group-title="INDIA",BBO HD
+https://livegeoroueu.akamaized.net/28072023/smil:bbo1.smil/chunklist_b928000.m3u8?hdntl=exp=1710878120~acl=!*/28072023/smil:bbo1.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=hdntl~hmac=a67218bc3644d684ab4857d0dc63cbd89b35885299bbd9c36226945db94ce9f2
+#EXTINF:0 group-title="INDIA",BBO HD
+https://livegeoroueu.akamaized.net/28072023/smil:bbo1.smil/media-uq4j4a73j_b928000_71090.ts?hdntl=exp=1710878120~acl=!*/28072023/smil:bbo1.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=hdntl~hmac=a67218bc3644d684ab4857d0dc63cbd89b35885299bbd9c36226945db94ce9f2
 =====================================================
 
 =========================INDIA 2======================
