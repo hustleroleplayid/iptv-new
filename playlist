@@ -8239,8 +8239,6 @@ http://cdn2.pishow.tv/live/276/master.m3u8
 http://cdn1.pishow.tv/live/222/master.m3u8
 #EXTINF:0 group-title="INDIA",ENTER 10
 http://cdn1.pishow.tv/live/225/master.m3u8
-#EXTINF:0 group-title="INDIA",ZING
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/zing-audio_208482_und=208000-video=1087600.m3u8
 #EXTINF:0 group-title="INDIA",BALLE BALLE
 https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:0 group-title="INDIA",BOOGLE BOLLYWOOD
@@ -8352,6 +8350,8 @@ http://103.120.172.74:1140
 http://108.181.123.13:8070/bubullea83/fWSgcNAqNOjTif3t/172264
 #EXTINF:0 group-title="INDIA",ZING
 https://mhdtv.co.in/jio/stream.m3u8?chunks=5862bc502ad2a4c5546cb7c6e14be3f58bfb396cff0c8bf7e958004ab23b0a05e3e4bc6490028fba9b4edbf1d54fdabbacbf72b0d4815b61d11ae21492ca929fca97c3034c3541f1112990101328e499b5ddfa9dd87de8e1720ea1c01a37b7b1636087e1141a5453f5d0d636a125a54f871b4e3034f51672e3dcb45a1d758e5b9d4f7bf4f39c59524270eedb20a00159d412ed7ec7c1b963d5827fd95bbfc8837e61f5fa583035fe26ba431776414841a85ed8aea97de55318b0f90c367c11e28b841194c6570d4e077a15e80d31c9beaa3ef14fcfa5e986b5ca6f7bc38dd09a
+#EXTINF:0 group-title="INDIA",ZING
+http://asdqwcd2344.mohdtv.com:8880/ALLChannels580cde003015/38671524/66707?token=TBRRBxJfEA9BDwBYVANSU1xVU1UEVARRVwYBDQMGVABSUFxWB1MBVgAaHBtCRUIEWV5tC1QTC1QHUggDGBJCElJEZg8FFQgXUAwFDQAGEk0aR1sPVRMLUwZUCAMNBARUARobFghTEA8NTVxVHRNVGUxWQAxRXW4GVBNRV1ESDQ9CWlVKQ1hcagddXVhfVRJbGgIQThJYQhITX1ZBWFwbQ1VfTRQAQ1cXWVZFVV0dEgJXRlwWQkgTWBMsfBYYElIZQ1NXFQhYXBdZGkRKEx0SCEtsQAdDRUMHUAhdRhYKFVEVGhsLAE9tVgxWXlxSRVkOVkAQWBIAE04TCFdaXURYE2hGUAJDDVxAD1RN
 #EXTINF:0 group-title="INDIA",ZEE CINEMA ASIA
 http://108.181.123.13:8070/bubullea83/fWSgcNAqNOjTif3t/1350
 #EXTINF:0 group-title="INDIA",ZEE CINEMA
@@ -9229,5 +9229,4 @@ https://ams1.reliastream.com/proxy/bollynbeyond2?mp=/stream
 https://stream-145.zeno.fm/a2gyqzwpwfeuv?zs=GdbNYyTZRdmkNTo2Lbaaag
 #EXTINF:-1 group-title="RADIO INDIA",Radio Hungama 90s Once Again
 https://stream-161.zeno.fm/rm4i9pdex3cuv?zs=1BVXHzShQN-Cb4uDRHIdWA
-
 
