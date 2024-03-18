@@ -8282,7 +8282,7 @@ http://208.86.19.13:81/7300.stream/index.m3u8
 #EXTINF:0 group-title="INDIA",SONY ENTERTAINMENT
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 
-#EXTINF:-1 tvg-id="SonySix.in" tvg-logo="https://i.imgur.com/ZZEH8SK.png" group-title="Undefined" user-agent="stream",Sony Six HD (1080p)
+#EXTINF:-1 tvg-id="SonySix.in" tvg-logo="https://i.imgur.com/ZZEH8SK.png" group-title="INDIA" user-agent="stream",Sony Six HD (1080p)
 #EXTVLCOPT:http-user-agent=stream
 http://103.81.104.118/hls/stream10.m3u8
 
