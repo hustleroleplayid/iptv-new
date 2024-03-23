@@ -1,3 +1,5 @@
+====================CUBMU=====================
+
 
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -169,7 +171,7 @@ https://cdnjkt4.transvision.co.id:1004/live/master/100/4028c685840ff049018455fb1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/45jb5o8gfh1ahmq/hbo.png" group-title="Hiburan",HBO
-https://cdnjkt4.transvision.co.id:10041/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+https://cdnjkt4.transvision.co.id:1004/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -211,7 +213,7 @@ https://cdnjkt4.transvision.co.id:1004/live/master/100/4028c685840ff04901845606f
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857fe540a1018060ae0aa740bb/39e0cbc9c8e0477591d7993555146bd6.jpg" group-title="Hiburan",Movies News
-https://cdnjkt4.transvision.co.id:10041/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd
+https://cdnjkt4.transvision.co.id:1004/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -229,7 +231,7 @@ https://cdnjkt4.transvision.co.id:1004/live/master/5/4028c68572841ba301729c921bc
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be2db0a25728/1d04ef38955743af9ac051beba87b578.png" group-title="Hiburan",Dunia Lain
-https://cdnjkt4.transvision.co.id:10041/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
+https://cdnjkt4.transvision.co.id:1004/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
