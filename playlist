@@ -40,7 +40,7 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 http://iptvtree.net:8080/c4596f70/c3848d92/162138
 
 #EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="NATIONAL",INDOSIAR
-https://cdn08jtedge.indihometv.com/dassdvr/133/indosiar/manifest.mpd
+http://myteve.online:8080/stadnik2/7082341272/162138
 
 #EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="NATIONAL",INDOSIAR (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -70,14 +70,14 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/630
 
 
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",SCTV
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",SCTV (HTV)
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
 
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",SCTV
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",SCTV (X)
 http://iptvtree.net:8080/c4596f70/c3848d92/162141
 
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png" group-title="NATIONAL",SCTV 
-https://cdn08jtedge.indihometv.com/dassdvr/133/sctv/manifest.mpd
+http://myteve.online:8080/stadnik2/7082341272/162141
 
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",SCTV (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -188,22 +188,20 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
 http://210.210.155.37/uq2663/h/h10/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="NATIONAL", MOJI (HTV)
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://s.id/1YseN
+http://myteve.online:8080/stadnik2/7082341272/298550
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="NATIONAL",MOJI (Indi)
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="NATIONAL",MOJI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://103.226.232.196:8000/play/a022/index.m3u8
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="NATIONAL",MOJI (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://rr3.dens.tv/s/s41/index.m3u8
 
 #EXTINF:-1 group-title="NATIONAL" tvg-id="MOJI" tvg-logo="https://i-meatballs.bunkr.ru/moji-EeCeQVRe.png?download=true",MOJI
-https://raw.githubusercontent.com/Arrasyid22/vision-/main/moji.m3u8
+http://iptvtree.net:8080/c4596f70/c3848d92/298550
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -623,8 +621,13 @@ https://ythls-v2.onrender.com/channel/UCiuu1WKCPw8VPasHoRE3NZA.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://i.ibb.co/XYH1m9q/mentaritv.png" group-title="KIDS", MENTARI TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://103.226.232.196:8000/play/a007/index.m3u8
+http://myteve.online:8080/stadnik2/7082341272/298546
+
+#EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://i.ibb.co/XYH1m9q/mentaritv.png" group-title="KIDS", MENTARI TV
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298546
+
+#EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://i.ibb.co/XYH1m9q/mentaritv.png" group-title="KIDS", MENTARI TV
+http://iptvtree.net:8080/c4596f70/c3848d92/298546
 
 #EXTINF:-1 tvg-id="My Kidz - [Channel 50].id" tvg-name="" tvg-logo="https://i.ibb.co/r3ss43b/mykidz.png" group-title="KIDS", MYKIDZ TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -5896,7 +5899,7 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-028/stream.mpd
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-029/stream.mpd
 #EXTINF:0 tvg-id="ext" group-title="SPORTS",EUROSPORT 2 🇮🇹
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-030/stream.mpd
-#EXTINF:0 tvg-id="ext" group-title="SPORTS",EUROSPORT 1 🇪🇸
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",EUROSPORT 1 ??🇸
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-031/stream.mpd
 #EXTINF:0 tvg-id="ext" group-title="SPORTS",EUROSPORT 1 🇪🇸
 https://ott.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.mpd
