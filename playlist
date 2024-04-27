@@ -777,7 +777,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68588e2da5a01892e3755c
 #EXTINF:1 tvg-id="AjwaTV.id" tvg-name="Ajwa TV" ch-id="7464"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Ajwa_TV.png" group-title="RELIGI" ,Ajwa TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-2-vidio-com.akamaized.net/sc/vidio/play.m3u8?id=7464&type=hls
+https://etslive-2-vidio-com.akamaized.net/exp=1714248276~acl=/hls-p/ingest_7464_*/*~hmac=493bdd744be27e6b61b7f5a8963829512c1de336d4042023dc3b73ab39a33e5e/hls-p/ingest_7464_720p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -6839,7 +6839,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8?app_type=web&userid=jj
 https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd
 #EXTINF:0 tvg-id="WWE.ca" group-title="SPORTS",WWE NETWORK 🇺🇸
 https://live-streaming-rsm.azureedge.net/wwehd/wwehd_cenc.isml/.mpd
-#EXTINF:0 tvg-id="WWE.ca" group-title="SPORTS",WWE NETWORK 🇺🇸
+#EXTINF:0 tvg-id="WWE.ca" group-title="SPORTS",WWE NETWORK ??🇸
 https://cors-proxy.elfsight.com/https://ctrl.laotv.la/live/WWE/manifest.mpd
 #EXTINF:0 tvg-id="WWE.ca" group-title="SPORTS",WWE NETWORK 🇺🇸
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0190/DASH/V0190.mpd
