@@ -653,6 +653,10 @@ https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/Channel(c99739b1-0748-
 #KODIPROP:inputstream.adaptive.license_key=686f7265653030303030303030303030:fe3d39b39bd26f0ee274f60c397bf61a
 https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Hip Hip Horee!" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWG9eMW4Jv5gKceIkIBUufBdElUjj5OmrAvw&usqp=CAU" group-title="KIDS",Hip Hip Horee!
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/60282.m3u8
+
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://i.ibb.co/tJX1NDf/kidoodletv.png" tvg-chno="" group-title="KIDS" , KIDOODLE TV
 https://kidoodletv-kdtv-1-us.samsung.wurl.tv/playlist.m3u8
 
@@ -4359,6 +4363,140 @@ https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1cc
 https://livegeoroueu.akamaized.net/28072023/smil:bbo1.smil/chunklist_b928000.m3u8?hdntl=exp=1714245207~acl=!*/28072023/smil:bbo1.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=hdntl~hmac=d2c6fd775e009024c5c2b93000f72cab4db79924857bb8c9d2c53e81fb65dc62&hdnts=st=1714158806~exp=1714162406~acl=!*/28072023/smil:bbo1.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~hmac=f182108518cc67fc58b6e8bbc95085903014bd21dba80a93cc57582e93424d10&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=MOV&ads.channel=3529&ads.channel_name=BBO&ads.network_name=yupptv&ads.user=1
 #EXTINF:0 group-title="INDIA",BBO CLASSIC
 https://livegeoroueu.akamaized.net/120723/smil:bboclassic1.smil/chunklist_b896000.m3u8?hdntl=exp=1714245378~acl=!*/120723/smil:bboclassic1.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=hdntl~hmac=a832635eff1389c21ca81259a819c8c125b187d9556659c42f60b909fb694ade
+
+====================== INDIA 2 ===============================
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ZEE ACTION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN236INTV.png" group-title="INDIA 2",ZEE ACTION
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA CINEMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN240IshwarTV.png" group-title="INDIA 2",ZEE BANGLA CINEMA
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BOLLYWOOD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN241" group-title="INDIA 2",ZEE BOLLYWOOD
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN243JaihindTV.png" group-title="INDIA 2",ZEE CINEMA
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55210.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA USA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN244JanamTV.png" group-title="INDIA 2",ZEE CINEMA USA
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE ETC BOLLYWOOD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN245JayaMax.png" group-title="INDIA 2",ZEE ETC BOLLYWOOD
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN478TENGolfHD.png" group-title="INDIA 2",ZEE TV
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/54975.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZING" tvg-logo="" group-title="INDIA 2",ZING
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/66707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZING INDIA" tvg-logo="" group-title="INDIA 2",ZING INDIA
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/66708.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZOOM" tvg-logo="" group-title="INDIA 2",ZOOM
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/66709.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="&pictures" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN0015AABPunjabi.png" group-title="INDIA 2",&pictures
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1964.m3u8
+#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="& PRIVE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN0029XJalwa.png" group-title="INDIA 2",& PRIVE
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="&TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN0039xTashanPunjabi.png" group-title="INDIA 2",&TV
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9X JALWA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN007AkaalPunjabi.png" group-title="INDIA 2",9X JALWA
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9X JHAKAAS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN008AndPictures.png" group-title="INDIA 2",9X JHAKAAS
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="&FLIX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN009AndTV.png" group-title="INDIA 2",&FLIX
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1956.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9X TASHAN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN010DDNews.png" group-title="INDIA 2",9X TASHAN
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1955.m3u8
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="9XM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN011B4UMovies.png" group-title="INDIA 2",9XM
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1954.m3u8
+#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="AJ TAK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN012B4UMusic.png" group-title="INDIA 2",AAJ TAK
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZOOM TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN014ZOOMTV.png" group-title="INDIA 2",ZOOM TV
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1951.m3u8
+#EXTINF:-1 tvg-id="b4u.music.gb" tvg-name="B4U MUSIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK158" group-title="INDIA 2",B4U MUSIC
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/28901.m3u8
+#EXTINF:-1 tvg-id="FoodFood.in" tvg-name="B4U MOVIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN023FoodFood.png" group-title="INDIA 2",B4U MOVIES
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1942.m3u8
+#EXTINF:-1 tvg-id="GeminiComedy.in" tvg-name="B4U PLUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN024GeminiComedyTelugu.png" group-title="INDIA 2",B4U PLUS
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BALLE BALLE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN025NewsX.png" group-title="INDIA 2",BALLE BALLE
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1940.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD NOW" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN026GeminiTelugu.png" group-title="INDIA 2",BOLLYWOOD NOW
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1939.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BIG MAGIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN028JayaMaxTamil.png" group-title="INDIA 2",BIG MAGIC
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD CLASSIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN029JayaTamil.png" group-title="INDIA 2",BOLLYWOOD CLASSIC
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1936.m3u8
+#EXTINF:-1 tvg-id="InTV.al" tvg-name="BOOGLE BOLLYWOOD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN030KTVTamil.png" group-title="INDIA 2",BOOGLE BOLLYWOOD
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1935.m3u8
+#EXTINF:-1 tvg-id="MoviesOK.in" tvg-name="COLORS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN034MoviesOK.png" group-title="INDIA 2",COLORS
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1931.m3u8
+#EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="COLORS CINEPLEX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN036MusicIndia.png" group-title="INDIA 2",COLORS CINEPLEX
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1929.m3u8
+#EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="COLORS RISHTEY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN041PolimerNewsTamil.png" group-title="INDIA 2",COLORS RISHTEY
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1924.m3u8
+#EXTINF:-1 tvg-id="ZeeNews.in" tvg-name="MUSIC INDIA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN089ZeeNews.png" group-title="INDIA 2",MUSIC INDIA
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1876.m3u8
+#EXTINF:-1 tvg-id="ZeeTalkies.in" tvg-name="MASTIII" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN092ZeeTalkiesMarathi.png" group-title="INDIA 2",MASTIII
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MOVIES NOW" tvg-logo="http://www.tvboxgroup.com/iptv/log
+#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN148" group-title="INDIA 2",SONY MOVIES
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN157RajMusix.png" group-title="INDIA 2",SONY
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55296.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY ACTION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN161CVRHealth.png" group-title="INDIA 2",SONY ACTION
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55292.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY PIX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN162PuthuYugam.png" group-title="INDIA 2",SONY PIX
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY SAB" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN163SonyBBCEarthHD.png" group-title="INDIA 2",SONY SAB
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY SAB UK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN164AnimalPlanetHD.png" group-title="INDIA 2",SONY SAB UK
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY SIX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN168PuthiyaThalimurai.png" group-title="INDIA 2",SONY SIX
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN169DDRajyasabha.png" group-title="INDIA 2",SONY TEN 1
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN171Tamil|VIJAYHD.png" group-title="INDIA 2",SONY TEN 2
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN172DiscoveryChannelTamil.png" group-title="INDIA 2",SONY TEN 3
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55281.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY TV ASIA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN173DiscoveryScience.png" group-title="INDIA 2",SONY TV ASIA
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55280.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony TV UK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN174DiscoveryTurbo.png" group-title="INDIA 2",Sony TV UK
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN179dw.png" group-title="INDIA 2",STAR PLUS
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN180DY365.png" group-title="INDIA 2",STAR SPORTS 1
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN181E24.png" group-title="INDIA 2",STAR SPORTS 2
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55272.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN182PolimerTV.png" group-title="INDIA 2",STAR SPORTS 3
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55271.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN183EpicHD.png" group-title="INDIA 2",STAR SPORTS SELECT 1
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55270.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN184ETNow.png" group-title="INDIA 2",STAR SPORTS SELECT 2
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN185ETVAbhiruchi.png" group-title="INDIA 2",SONY MAX
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55268.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN189ETVCinema.png" group-title="INDIA 2",SONY MAX 2
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55264.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY MIX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN190PolimerNews.png" group-title="INDIA 2",SONY MIX
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55263.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY PAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN191ETVKannadaNews.png" group-title="INDIA 2",SONY PAL
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55262.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY YAY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN192ETVMP.png" group-title="INDIA 2",SONY YAY
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55261.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR BHARAT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN195ETVPlus.png" group-title="INDIA 2",STAR BHARAT
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55258.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN196ETVRAJASTHAN.png" group-title="INDIA 2",STAR GOLD
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55257.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD SELECT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN197ETVTelangana.png" group-title="INDIA 2",STAR GOLD SELECT
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55256.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN198ETVTelugu.png" group-title="INDIA 2",STAR JALSHA
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR MAA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN199ETVUP.png" group-title="INDIA 2",STAR MAA
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55254.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN201StarJalsha.png" group-title="INDIA 2",STAR MOVIES
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UTV MOVIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN231INNewsHaryana.png" group-title="INDIA 2",UTV MOVIES
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UTSAV GOLD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN232INNewsMP.png" group-title="INDIA 2",UTSAV GOLD
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55221.m3u8
+
 
 
 =====================================================
