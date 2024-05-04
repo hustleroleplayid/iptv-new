@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 
@@ -1786,17 +1787,6 @@ http://muka03.wanicelife.com:8880/live/3ca7043n04/asfde32e2/71094.ts
 #EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="https://hometv.pw/logo/movies/paramount.png" group-title="MOVIES",PARAMOUNT (V+)
 https://liveaneviadev.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
 
-#EXTINF:-1 group-title="MOVIES"  tvg-logo="https://images.indihometv.com/logo_paramount_ver1.png",PARAMOUNT NETWORK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=706172616d6f756e7430303030303030:da2faf628a7e2bda68d12ae2da12b93c
-https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/paramount/manifest.mpd
-
-
-#EXTINF:-1 group-title="MOVIES"  tvg-logo="https://images.indihometv.com/logo_paramount_ver1.png",PARAMOUNT
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://cempedak-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1816,11 +1806,43 @@ https://liveaneviadev.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMov
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BIOSKOP" tvg-logo="https://i.ibb.co/vXvYKTB/zeebioskop.png" group-title="MOVIES", ZEE BIOSKOP
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="ZEE BIOSKOP" tvg-logo="https://hometv.pw/logo/movies/zee_bioskop.png" group-title="MOVIES",ZEE BIOSKOP (V+)
-https://liveaneviadev.mncnow.id/live/edsZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+#EXTINF:-1 tvg-chno="" tvg-id="B4UMovies.in" tvg-name="B4U MOVIES" tvg-logo="https://static.epg.best/in/B4UMovies.in.png" group-title="MOVIES ",B4U MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC23/index.m3u8
+
+#EXTINF:-1 tvg-id="ts100 tvg-name="ZEE ACTION" tvg-logo="https://i.ibb.co/bgGRBG9/zeeaction.png" group-title="MOVIES", ZEE ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/
+https://mhdtv.co.in/jio/stream.m3u8?id=488
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CKWBHZJ/67d902f2-c127-464a-94c4-2226a1feb655.png" group-title="MOVIES", Shemaroo Bollywood 
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bs1Q0bx/Picsart-24-02-29-19-06-41-393.png" group-title="MOVIES",Classic Bollywood HD
+https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MGKJG0P/Picsart-24-02-29-19-07-38-927.png" group-title="MOVIES",Bollywood HD
+https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qv9Zkh5/Picsart-24-03-04-10-33-53-304.png" group-title="MOVIES",Bollywood Prime
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/brBwwhN/In-Shot-20240304-112427094.png" group-title="MOVIES",Zee World HD
+https://da6c334e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9aZWVXb3JsZF9ITFM/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="MOVIES",Zee•cinema 
+http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/132025
+
+#EXTINF:-1 tvg-id="XTRM" tvg-name="" tvg-logo="https://i.ibb.co/dMSt5xX/xtrm.png" group-title="MOVIES", XTRM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=563e6e1367e0c8c0f6643cf0ae92c4e7:7a84ece91b690c5b717eeffd58a55b04
+https://ott.zapitv.com/live/eds_c2/xtrm_hd/dash_live_enc/xtrm_hd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -7893,5 +7915,4 @@ https://wp6-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
 https://wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/_shared_cc010062b17300c4504b6ab5681b5417/NL_000095_019371.mpd
-
 
